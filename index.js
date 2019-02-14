@@ -5,7 +5,7 @@ var MergeTrees = require('broccoli-merge-trees');
 var path = require('path');
 
 module.exports = {
-  name: 'ember-sigmajs',
+  name: require('./package.json').name,
 
   included: function(app) {
     this._super.included.apply(this, arguments);

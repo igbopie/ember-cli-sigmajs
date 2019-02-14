@@ -1,1 +1,1 @@
-export { default } from 'ember-sigmajs/components/sigma-child-base';
+export { default } from 'ember-cli-sigmajs/components/sigma-child-base';

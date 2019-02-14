@@ -1,1 +1,1 @@
-export { default } from 'ember-sigmajs/components/graph-edge';
+export { default } from 'ember-cli-sigmajs/components/graph-edge';

@@ -1,1 +1,1 @@
-export { default } from 'ember-sigmajs/components/graph-node';
+export { default } from 'ember-cli-sigmajs/components/graph-node';
